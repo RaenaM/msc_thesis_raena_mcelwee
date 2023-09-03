@@ -1,5 +1,6 @@
 # msc_thesis_raena_mcelwee
- Code written for the research project for Raena McElwee as part of the MSc in Statistics in Imperial College London.
+ Code written for the research project for Raena McElwee partial fulfilment of the requirements for the MSc in Statistics of Imperial College London.
+
 
 Much of the methodology adopted in the code follows that of the original code for Gerber (2021), written by Yinsen Miao: https://github.com/yinsenm/gerber
 
