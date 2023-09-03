@@ -4,7 +4,7 @@
 
 Much of the methodology adopted in the code follows that of the original code for Gerber (2021), written by Yinsen Miao: https://github.com/yinsenm/gerber
 
-This repository does not contain the data used in the research as it has been accessed from Bloomberg termninals. Code to pull data via Bloomberg APIs for termnials can be provided upon request.
+This repository does not contain the data used in the research as it has been accessed from Bloomberg termninals. Code to pull data via Bloomberg APIs for termninals can be provided upon request.
 
 `functions_and_classes` contains the key functions and classes used to run all experiments. 
 
