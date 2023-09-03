@@ -8,6 +8,6 @@ This repository does not contain the data used in the research as it has been ac
 
 `functions_and_classes` contains the key functions and classes used to run all experiments. 
 
-`study_1` contains the strategy beacktests for each risk appetite for each period for the first study in the thesis, "Price-Volume Strategy".
+`study_1` contains the strategy backtests for each risk appetite for each period for the first study in the thesis, "Price-Volume Strategy".
 
 `all_other_experiments` contains code to reproduce the second and third studies, along with code to create any other plots or tables included in the thesis.
